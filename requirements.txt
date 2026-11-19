@@ -1,0 +1,7 @@
+google-genai
+python-dotenv
+pydantic
+pillow
+arabic-reshaper
+python-bidi
+streamlit

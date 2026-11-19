@@ -1,0 +1,15 @@
+# کلید و محیط پایتون
+.env
+.venv/
+__pycache__/
+
+# خروجی‌های هر اجرا
+plan.json
+hooks.json
+carousel.json
+used_concepts.json
+slides/
+output*.txt
+# خروجی‌ها و تنظیمات اپ
+output/
+settings.json
